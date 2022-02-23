@@ -2,7 +2,7 @@
   <img src="http://101.34.136.96:3000/get/@MamboJiang?theme=moebooru" alt="counter">
 </h1>
 
-### Hi there 👋
+### Hi 👋
 
 <!--
 **MamboJiang/MamboJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
