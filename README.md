@@ -3,16 +3,19 @@
 ------
 
 These are some **original** projects I worked on, whose repositories have been submitted on the Github
+
 I have short descriptions and introductions of all these projects on my portfolio website [MamboJiang's Portfolio](https://mambojiang.site)
 
 ### 🎲Games:
 
 **Inspiration∞ (Participated as PM and Program Designer):**
+
 https://github.com/kmeykranz/JamTime-CIGA24
 
 ### 🛠️Tools:
 
 **StudyTogether:**
+
 https://github.com/kmeykranz/StudyTogether
 
 ------
