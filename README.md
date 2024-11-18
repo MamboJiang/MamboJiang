@@ -3,7 +3,7 @@ A Chinese Student who has a great interest in studying algorithms and software d
 
 ------
 
-These are some **original** projects I worked on, whose repositories are avaliable on Github
+These are some **original** projects I participated in, whose repositories are avaliable on Github
 
 I have short descriptions and introductions of all these projects on my portfolio website, [MamboJiang's Portfolio](https://mambojiang.site)
 
