@@ -1,13 +1,23 @@
+### Hi 👋 I'm MamboJiang
+
+------
+
+These are some **original** projects I worked on, whose repositories have been submitted on the Github
+I have short descriptions and introductions of all these projects on my portfolio website [MamboJiang's Portfolio](https://mambojiang.site)
+
+### 🎲Games:
+
+**Inspiration∞ (Participated as PM and Program Designer):**
+https://github.com/kmeykranz/JamTime-CIGA24
+
+### 🛠️Tools:
+
+**StudyTogether:**
+https://github.com/kmeykranz/StudyTogether
+
 <h1 align="center">
   <img src="https://counter.yuki.sh/get/@MamboJiang?theme=moebooru" alt="counter">
 </h1>
-
-### Hi 👋
-
-The projects I worked on:
-🎲Game:
-https://github.com/kmeykranz/JamTime-CIGA24
-
 
 <!--
 **MamboJiang/MamboJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
