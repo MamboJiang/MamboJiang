@@ -1,4 +1,5 @@
 ### Hi 👋 I'm MamboJiang
+A Chinese Student who has a great interest in studying algorithms and software development.
 
 ------
 
