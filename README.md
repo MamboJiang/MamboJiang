@@ -13,7 +13,7 @@ I have short descriptions and introductions of all these projects on my portfoli
 
 https://github.com/kmeykranz/JamTime-CIGA24
 
-**Inspiration∞ (2025 CiGA GameJam Project, Participated as PM and Program Designer):**
+**LivelyKitchen∞ (2025 CiGA GameJam Project, Participated as PM and Program Designer):**
 
 https://github.com/MamboJiang/LivelyKitchen
 
