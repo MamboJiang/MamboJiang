@@ -9,6 +9,11 @@ I have short descriptions and introductions of all these projects on my portfoli
 
 ### 🎲Games:
 
+**Nosleep (2022 CiGA GameJam Project):**
+
+https://ostrich-hermit.itch.io/shi-sleep
+https://hzzzz.itch.io/nosleep
+
 **Inspiration∞ (2024 CiGA GameJam Project, Participated as PM and Program Designer):**
 
 https://github.com/kmeykranz/JamTime-CIGA24
@@ -21,7 +26,7 @@ https://github.com/MamboJiang/LivelyKitchen
 
 **StudyTogether:**
 
-https://github.com/kmeykranz/StudyTogether
+
 
 ------
 
